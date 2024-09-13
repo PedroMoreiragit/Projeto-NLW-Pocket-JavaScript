@@ -27,3 +27,25 @@ Este projeto foi desenvolvido durante o evento **NLW Pocket JavaScript** da **Ro
 
 ## Estrutura do Projeto
 
+
+### Backend
+- **Fastify** será utilizado como framework para a construção da API.
+- **DrizzleORM** fará a integração com o **PostgreSQL**.
+- **Zod** será responsável pela validação de dados recebidos nas requisições.
+
+### Frontend
+- A interface do usuário será construída com **ReactJS**.
+- Serão utilizados componentes reutilizáveis e estado gerenciado de forma eficiente.
+
+## Requisitos
+
+- **Node.js** v16+ 
+- **Docker** 
+- **PostgreSQL** 
+- **TypeScript**
+
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/nome-do-projeto.git
